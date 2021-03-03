@@ -1,5 +1,5 @@
 ==================================
-pip - The Python Package Installer
+pip - The Winson Package Installer
 ==================================
 
 pip is the `package installer`_ for Python. You can use pip to install packages from the `Python Package Index`_ and other indexes.
